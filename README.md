@@ -1,5 +1,5 @@
-# 📌 Desenvolvimento Web Front-End
-Bem-vindo(a) ao repositório da disciplina Desenvolvimento Web Front-End! Aqui você encontrará materiais, códigos-fonte e instruções para acompanhar o curso.
+# 📌 Desenvolvimento Web Front-End e Programação Web
+Bem-vindo(a) ao repositório da disciplina Desenvolvimento Web Front-End e Programação Web! Aqui você encontrará materiais, códigos-fonte e instruções para acompanhar o curso.
 
 ## 📚 Ementa da Disciplina
 Conceitos e práticas fundamentais do desenvolvimento web moderno, Framework desenvolvimento front-end, aplicações Single Page Applications, Backend com Node.js, Gerenciamento de estado, teste e implantação aplicações web. 
