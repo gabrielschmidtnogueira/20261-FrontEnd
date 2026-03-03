@@ -1,17 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { Destaque } from './destaque';
+import { MenuSuperior } from './menu-superior';
 
-describe('Destaque', () => {
-  let component: Destaque;
-  let fixture: ComponentFixture<Destaque>;
+describe('MenuSuperior', () => {
+  let component: MenuSuperior;
+  let fixture: ComponentFixture<MenuSuperior>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [Destaque],
-    }).compileComponents();
+      declarations: [MenuSuperior]
+    })
+    .compileComponents();
 
-    fixture = TestBed.createComponent(Destaque);
+    fixture = TestBed.createComponent(MenuSuperior);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
